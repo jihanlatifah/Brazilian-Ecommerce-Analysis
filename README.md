@@ -6,6 +6,11 @@ By integrating multiple relational datasets and performing Exploratory Data Anal
 
 ## Dataset
 
+**Dataset Source**
+**Brazilian E-Commerce Public Dataset by Olist**
+Source: Kaggle
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 The analysis uses the following datasets:
 - Customers
 - Orders
