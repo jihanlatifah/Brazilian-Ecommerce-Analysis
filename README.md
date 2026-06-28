@@ -38,7 +38,6 @@ The analysis uses the following datasets:
 - Pandas
 - Matplotlib
 - Seaborn
-- Google Colab
 - Kaggle Dataset
 
 ## Business Problems
