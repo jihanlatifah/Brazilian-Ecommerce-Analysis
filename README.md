@@ -4,6 +4,16 @@ This project analyzes the Brazilian E-Commerce Public Dataset by Olist to uncove
 
 By integrating multiple relational datasets and performing Exploratory Data Analysis (EDA), this project transforms raw transactional data into actionable business insights that can support strategic decision-making.
 
+## Dashboard Preview
+
+### Monthly Sales Trend
+
+![Monthly Sales](images/monthly_sales.png)
+
+### Payment Method
+
+![Payment](images/payment_method.png)
+
 ## Dataset
 
 **Dataset Source**
